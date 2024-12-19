@@ -1,6 +1,6 @@
 # Predicting Trends in Stock Returns
 
-In this project, I explore predicting trends in stock returns where machine learning is used to give a result of either "up" (1) or "down" (0) for every day that you predict. I have decided to use both LSTM and Random Forest to compare the both methods.
+In this project, I explore predicting trends in stock returns where machine learning is used to give a result of either "up" (1) or "down" (0) in logarithmic returns for every day that you predict. I have decided to use both LSTM and Random Forest to compare the both methods.
 
 The purpose of this project was to get a taste of machine learning and learning to use pandas, numpy, TensorFlow, and scikitlearn to analyze data and start learning how to make models, combining my interest to learn machine learning and finance.
 
